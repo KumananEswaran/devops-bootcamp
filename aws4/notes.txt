@@ -1,0 +1,14 @@
+[
+    [
+        "nat-075ee453fbcdb6a79",
+        "available"
+    ]
+]
+[
+    "13.229.161.212",
+    "13.250.210.150",
+    "18.136.134.39"
+]
+[
+    "265751834658.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/kumanan"
+]
